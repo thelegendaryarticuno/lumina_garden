@@ -1,0 +1,15 @@
+Biology 101: Cellular Fundamentals
+
+1. The Cell Theory
+All living organisms are composed of cells. The cell is the basic unit of life. Cells arise from pre-existing cells.
+
+2. Organelles
+- Nucleus: The control center containing DNA.
+- Mitochondria: The powerhouse of the cell, generating ATP via cellular respiration.
+- Ribosomes: The sites of protein synthesis.
+- Chloroplasts: Found in plants, these conduct photosynthesis to convert huge light energy into sugar.
+
+3. Cellular Processes
+- Photosynthesis: 6CO2 + 6H2O + Light -> C6H12O6 + 6O2
+- Respiration: C6H12O6 + 6O2 -> 6CO2 + 6H2O + ATP
+- Mitosis: Cell division resulting in two identical daughter cells.
