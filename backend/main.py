@@ -5,8 +5,8 @@ import shutil
 import os
 import uuid
 import json
-from .mock_ai import MockAI
-from .storage.db import Database
+from mock_ai import MockAI
+from storage.db import Database
 
 app = FastAPI(title="Lumina Garden API")
 
